@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/BBD/Desktop/Reload/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/BBD/Desktop/Reload/Content/Widget/WBP_Ammo.uasset",
+				"C:/Users/BBD/Desktop/Reload/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/BBD/Desktop/Reload/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/BBD/Desktop/Reload/Content/FirstPerson/Input/Actions/IA_Reload.uasset",
+				"C:/Users/BBD/Desktop/Reload/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/BBD/Desktop/Reload/Content/FirstPerson/Blueprints/BPI_Gun.uasset"
+			]
+		}
+	]
+}

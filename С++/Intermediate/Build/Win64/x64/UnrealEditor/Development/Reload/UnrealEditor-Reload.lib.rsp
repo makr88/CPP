@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Reload.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\ReloadEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\UnrealEditor\Development\Reload\LBP_Reload.gen.cpp.obj"
+"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\UnrealEditor\Development\Reload\Reload.init.gen.cpp.obj"
+"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\UnrealEditor\Development\Reload\LBP_Reload.cpp.obj"
+"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\UnrealEditor\Development\Reload\Reload.cpp.obj"
+"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\UnrealEditor\Development\Reload\Default.rc2.res"
+/OUT:"C:\Users\BBD\Desktop\Reload\Intermediate\Build\Win64\x64\UnrealEditor\Development\Reload\UnrealEditor-Reload.lib"

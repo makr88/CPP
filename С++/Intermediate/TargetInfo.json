@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Reload",
+			"Path": "..\\Source\\Reload.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ReloadEditor",
+			"Path": "..\\Source\\ReloadEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
